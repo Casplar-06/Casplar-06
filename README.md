@@ -2,7 +2,14 @@
 
 ## Studying Student
 
-I have been studying at Nosnas High school for almost two years now. There I have been learning webdesgin for almost a year were I have learned the basice within HTML and CSS. I have also learned the basics within computer science, on a website called Cisco, were I am going to take a certificate called "It Essentials"* 🌍  I'm based in Stenungsund* ✉️  You can contact me at [casper.larsson06@skola.stenungsund.se](mailto:casper.larsson06@skola.stenungsund.se)* 🧠  I'm learning computer science and web design* 🤝  I'm open to collaborating on interesting projekts* ⚡  I'm incredibly intelligent!!!!
+I have been studying at Nosnas High school for almost two years now. There I have been learning webdesgin for almost a year were I have learned the basice within HTML and CSS. I have also learned the basics within computer science, on a website called Cisco, were I am going to take a certificate called "It Essentials" 
+
+🌍  I'm based in Stenungsund   
+✉️  You can contact me at [casper.larsson06@skola.stenungsund.se](mailto:casper.larsson06@skola.stenungsund.se)   
+🧠  I'm learning computer science and web design  
+🤝  I'm open to collaborating on interesting projekts  
+⚡  I'm incredibly intelligent!!!!
+
 
 ### Skills
 
